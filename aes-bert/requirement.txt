@@ -5,3 +5,5 @@ accelerate
 timm
 scikit-learn
 sentencepiece
+peft
+
