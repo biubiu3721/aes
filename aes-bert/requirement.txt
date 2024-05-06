@@ -1,3 +1,4 @@
+# python >= 3.8
 pandas
 transformers
 datasets
@@ -6,4 +7,4 @@ timm
 scikit-learn
 sentencepiece
 peft
-
+protobuf
